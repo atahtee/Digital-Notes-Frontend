@@ -27,10 +27,9 @@ We welcome contributions from the open-source community to enhance and improve N
 5. Commit your changes and push them to your forked repository.
 6. Submit a pull request, and we will review your changes.
 
-## Feedback and Support
+## Feedback and Supports
 
 If you encounter any issues while using Notes-N or have any suggestions for improvement, please feel free to open an issue on this repository. We appreciate your feedback and will strive to address any concerns promptly.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
+
