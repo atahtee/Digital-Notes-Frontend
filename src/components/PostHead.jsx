@@ -8,7 +8,7 @@ const PostHead = ({ post }) => {
     const {dispatch} = usePostsContext();
     const {user} = useAuthContext();
     const handleClick = async () => {
-        const response = await fetch(`http://localhost:4000/api/posts/${post._id}`, {
+        const response = await fetch(`https://diary-api-j715.onrender.com/api/posts/${post._id}`, {
             method: 'DELETE',
             headers: {
                 'Authorization': `Bearer ${user.token}`
