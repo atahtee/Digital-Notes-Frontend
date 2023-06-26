@@ -14,7 +14,7 @@ Notes-N is a simple and intuitive web app designed to help you organize your tho
 
 ## Getting Started
 
-To start using Notes-N, simply visit our web app at [https://notes-n.netlify.app/](https://notes-n.netlify.app/). Once there, you can start creating and managing your notes right away.
+To start using Notes-N, simply visit our web app [here](https://notes-n.netlify.app/). Once there, you can start creating and managing your notes right away.
 
 ## Contributing
 
